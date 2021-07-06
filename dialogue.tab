@@ -1,0 +1,153 @@
+Identifier	Character	Dialogue	Filename	Line Number
+start_55830997	Narrator	Sometime in the future, there was an arms race to develop transhumans.	game/script.rpy	37
+start_347e9903	Narrator	In the process, the US government discovered alternate dimensions and obtained a sample called “XE-037”, a mysterious black goo that was able to reanimate the dead and cause miraculous targeted phenotype mutations.	game/script.rpy	39
+start_8edff15a	Narrator	XE-037 turned out to be intelligent - vastly so - and escaped, contaminating the groundwater and causing an enormous zombie outbreak.	game/script.rpy	41
+start_f2030ad8	Narrator	As this spiraled out of control, Earth became the target of a multidimensional portal attack through which the Blob, the entity of which XE-037 is just a small part, took over our world.	game/script.rpy	43
+start_69ac0428	Narrator	Simultaneously, forces from other dimensions entered opportunistically as our dimensional fabric was destabilized. This was the Cataclysm.	game/script.rpy	45
+start_adc50eff	Narrator	Would you like to know more?	game/script.rpy	47
+describe_f07c461a	Narrator	{b}March, 25 Years Before the Cataclysm:{/b}	game/script.rpy	60
+describe_0f0a16b4	Narrator	An interdimensional traveler from an alternate earth crash lands a portal traveling vessel in the American Midwest.	game/script.rpy	62
+describe_bc0a27d3	Narrator	The traveler dies, and the vessel is appropriated by the US government and starts a chain of research.	game/script.rpy	64
+describe_b5d22550	Narrator	The technology is very similar to Earth tech of the 1990s, but the actual dimensional travelling technology is as-yet undeveloped, and there are examples of equivalent but divergent energy technologies:	game/script.rpy	66
+describe_fc75c534	Narrator	there is a simple but functional high-capacity fuel cell on board, using mostly Earth accessible designs but with a few exotic components that will take time to reverse engineer.	game/script.rpy	68
+describe_adc50eff	Narrator	Would you like to know more?	game/script.rpy	70
+describe2_9c44fa76	Narrator	{b}April, 15 Years Before the Cataclysm:{/b}	game/script.rpy	81
+describe2_73e2eaa6	Narrator	Research into pilotable robot exoskeletons results in the first large production robotic suit for cargo handling.	game/script.rpy	83
+describe2_9c7a3801	Narrator	It remains prohibitively expensive for most applications.	game/script.rpy	85
+describe2_e4cf2ec0	Narrator	These suits use a simplified fuel cell design from the dimensional craft, but not all the raw materials needed have yet been synthesized, so the efficiency is much lower.	game/script.rpy	87
+describe3_c499e9de	Narrator	{b}May, 13 Years Before the Cataclysm:{/b}	game/script.rpy	98
+describe3_ce5e5557	Narrator	Improved fuel cell designs make solar-electric cars a viable alternative to gasoline. The first privately made electric cars are announced.	game/script.rpy	100
+describe4_31518795	Narrator	{b}September, 12 Years Before the Cataclysm:{/b}	game/script.rpy	111
+describe4_7ccdf950	Narrator	Advances in reverse engineering and some early tests of portal tech lead to improved synthesis of fuel cells from the dimensional craft.	game/script.rpy	113
+describe4_209b867a	Narrator	These cells are still bulky but enable a lot of new technologies to be imagined.	game/script.rpy	115
+describe4_0f57677f	Narrator	They use radioactive plutonium as a catalyst in the fuel reaction, earning the nickname “plutonium fuel cells”. Due to the risk of radioactivity, they are not widely adopted by civilians.	game/script.rpy	117
+describe4_8c03b5c1	Narrator	A month later, the first stable portal is opened, and a creature from the netherum breaks through, destroying a large portion of a DARPA lab.	game/script.rpy	119
+describe4_62692819	Narrator	The facility auto-destruct is engaged and the event disguised as a mine collapse.	game/script.rpy	121
+describe4_a76aa67e	Narrator	The government puts a hard limit on acceptable portal research, particularly the creation of stable portals.	game/script.rpy	123
+describe5_9f7d37de	Narrator	{b}December, 10 Years Before the Cataclysm:{/b}	game/script.rpy	134
+describe5_8782e1f7	Narrator	An extraterrestrial visitor, frozen in ice, is retrieved by a Japanese whaling boat, and hastily recovered by their government and research agencies.	game/script.rpy	136
+describe5_10420cb2	Narrator	This is the first contact between mi-go and humans.	game/script.rpy	138
+describe5_9bb9f66d	Narrator	Existence of the aliens is heard in rumours and leaked photos on the internet,	game/script.rpy	140
+describe5_7e248fde	Narrator	Until a well-known Redditor posts a ‘making of’ video that shows detailed information of how she constructed the model alien for an art exhibit.	game/script.rpy	142
+describe5_8fbc0c22	Narrator	The photos continue to circulate but are relegated to places online where people don’t believe in Snopes.	game/script.rpy	144
+describe6_450ac102	Narrator	{b}December, 9 Years Before the Cataclysm:{/b}	game/script.rpy	155
+describe6_4eb0e673	Narrator	Artificial intelligence using dimensional probability heuristics is developed.	game/script.rpy	157
+describe6_640a20a5	Narrator	This is an AI that can simulate deductive reasoning by scanning several adjacent realities to create a realistic estimation of the outcome of an action, quite analogous to human deductive reasoning.	game/script.rpy	159
+describe6_d15f5076	Narrator	In a small scale this is surprisingly efficient.	game/script.rpy	161
+describe7_45063acd	Narrator	{b}June, 8 Years Before the Cataclysm:{/b}	game/script.rpy	172
+describe7_3daf57d1	Narrator	Melchior is developed. It is a useful research assistant using dimensional heuristics but nowhere near as intelligent as hoped,	game/script.rpy	174
+describe7_33eaf4b7	Narrator	Due to the prohibitive power requirements of anticipating more than a few minutes ahead in time.	game/script.rpy	176
+describe7_a0d06f38	Narrator	Its inability to plan in the long term is seen as a crippling defect, but it remains an overall success.	game/script.rpy	178
+describe7_aebc715e	Narrator	Later that month, the first powered exoskeletons are OK’d for military use, in limited test deployments.	game/script.rpy	180
+describe7_e2c04b04	Narrator	Although incredibly powerful against small arms fire, these “tank suits” are too large, expensive, and heavy to gain any advantages from their humanoid shape.	game/script.rpy	182
+describe7_77a1b151	Narrator	They do not see full scale production.	game/script.rpy	184
+describe8_f5914703	Narrator	{b}July, 7 Years Before the Cataclysm:{/b}	game/script.rpy	195
+describe8_d86e4f55	Narrator	First phase development of CBMs, using bioplastic technology derived from research conducted on mi-go. Aided by Melchior, research is extremely promising.	game/script.rpy	197
+describe9_7c741e21	Narrator	{b}May, 6 Years Before the Cataclysm:{/b}	game/script.rpy	208
+describe9_09c3ad95	Narrator	The first eyebot drones are deployed to assist in police work.	game/script.rpy	210
+describe9_b46ecc22	Narrator	This is one of the first public displays of new AI systems using dimensional probability heuristics, with the actual DPH being managed by a central mainframe.	game/script.rpy	212
+describe9_d0a79b1d	Narrator	From a public perspective the dimensional aspect is kept concealed and people are told it is an example of machine learning.	game/script.rpy	214
+describe9_15b3eba6	Narrator	Even engineers working on the technology have no idea how it really works (not far off of current deep machine learning really… but better), and a second phase CBM development commences.	game/script.rpy	216
+describe9_975a0d12	Narrator	A few weeks later, a mi-go scout arrives in orbit in response to the awakened signal of the mi-go in the ice. It does not make immediate contact with humans.	game/script.rpy	218
+describe10_87b0087d	Narrator	{b}February, 4 Years Before the Cataclysm:{/b}	game/script.rpy	229
+describe10_a312e56b	Narrator	The first CBMs are released for the public and military.	game/script.rpy	231
+describe10_1586628a	Narrator	China announces its own competing CBM system (XFS) and showcases the first wave of “steel soldiers”, using XFS gear.	game/script.rpy	233
+describe10_393de5ed	Narrator	The first military grade heavy power armors are released for field testing. Unlike the tank suits, these are light and small enough to allow close quarters maneuvering in urban environments, and remain almost impervious to all but the heaviest of conventional weaponry.	game/script.rpy	235
+describe10_89948cdc	Narrator	Development on smaller, less expensive suits becomes a priority.	game/script.rpy	237
+describe11_bcd590c6	Narrator	{b}November, 3 Years Before the Cataclysm:{/b}	game/script.rpy	248
+describe11_d04e4263	Narrator	The new cold war begins as the US and China enter a race to develop the ultimate transhuman soldier, as well as functional AI.	game/script.rpy	250
+describe11_e21152b5	Narrator	US reopens portal research, considering it a safer proposition with CBM enhanced soldiers and Melchior’s assistance, and potentially a good way to get ahead of China.	game/script.rpy	252
+describe11_847238ea	Narrator	Researchers publish results regarding portal stability that help to explain the unexpectedly large portal of 9 years ago.	game/script.rpy	254
+describe11_35b9d1a0	Narrator	Polydimensional topography has numerous stable planes, and the energy required to make portals to certain areas is much lower.	game/script.rpy	256
+describe11_7998106e	Narrator	Early researchers hadn’t known about this, and put far too much energy into a portal to an energetically accessible location, creating a much bigger portal than intended. This knowledge allows much safer exploration of micro portals.	game/script.rpy	258
+describe11_a63ab9ef	Narrator	A remote research probe sent to an adjacent dimension brings back an unidentified biocontaminant, which is captured for analysis but inadvertently destroyed by standard safety procedures.	game/script.rpy	260
+describe11_d9205335	Narrator	The Blob becomes aware of our existence.	game/script.rpy	262
+describe12_8905c196	Narrator	{b}August, 2 Years Before the Cataclysm:{/b}	game/script.rpy	273
+describe12_aaf6811e	Narrator	Immediately following Chinese New Year, a new wave of XFS empowered soldier is announced publically. These represent the tip of the iceberg, and are considered dangerously competitive to NATO equivalents.	game/script.rpy	275
+describe12_ed37a0cb	Narrator	Allied intelligence indicates that classified models may be far in advance of CBM-powered soldiers.	game/script.rpy	277
+describe12_4bc3379e	Narrator	In June, XEDRA (Xenophysical Energy Defense Research Agency) is formed to focus research into transdimensional phenomena.	game/script.rpy	279
+describe12_82979f46	Narrator	Publically they are masked as DARPA researchers, and other more mundane groups. They are given an enormous budget, considered by the US government to be equivalent to NASA in the current cold war.	game/script.rpy	281
+describe12_d621490a	Narrator	Certain close allies to the US join the effort, sending top minds and resources to XEDRA facilities across North America.	game/script.rpy	283
+describe12_cb5ae43e	Narrator	Not long after, XEDRA facility in the Northwest reports a major sample stolen. Counterintelligence identifies China as the most likely culprit, and backtraces the theft to hypothesize that significant XEDRA research data was compromised.	game/script.rpy	285
+describe12_01065590	Narrator	New protocols are put in place to counter XFS equipped intelligence agents, including advanced robotic security managed by Melchior.	game/script.rpy	287
+describe12_16e7a661	Narrator	Later, XEDRA is broken into several connected but distinct agencies. In several of these agencies, desperate to catch up for time now lost by presumed stolen research, reasonable safety protocols are dropped in favour of Melchior predictions of immediate repercussions.	game/script.rpy	289
+describe12_37384331	Narrator	This has the obvious (especially in hindsight) flaw that anything that does not have immediate repercussions will be missed: there are few lab explosions, but the Blob is able to leverage this weakness.	game/script.rpy	291
+no_4db240ed	Narrator	What is your name?	game/script.rpy	310
+no_fb53a5a2	Narrator	As [povname] opens their eyes, the first things that they notice are that it's dark and they're cold and the snow is falling as fast as the horde is headed their way.	game/script.rpy	321
+no_28d6cabd	Narrator	Their hands are covered in blood, [povname]'s pinky nail is falling off.	game/script.rpy	323
+no_613ccd43	Narrator	Outside is inside, and they're shivering as the moonlight is coming through the gaps in the roof.	game/script.rpy	325
+no_87ef72bc	Narrator	[povname] has been holed up here with their friends, in the apartment, as the world began to fall apart.	game/script.rpy	327
+no_4071ebdd	Narrator	When the apocalypse began, many people were trapped in unfortunate situations, and as a result, met unfortunate fates.	game/script.rpy	331
+no_b201f74a	Narrator	[povname], however, was at a sleepover with their two buddies when the cataclysm struck.	game/script.rpy	333
+no_c2f48aa7	Narrator	They sustained themselves entirely on cereal and junk food, as entire militaries collapsed in the face of monsters descending upon the world. They all knew life like this was not sustainable.	game/script.rpy	335
+no_b5f5b98b	Narrator	The entire world had been so hyped for a zombie apocalypse, that they believed that we would have killed them all by day 3.	game/script.rpy	337
+no_6bc166b0	Narrator	Hardware and sporting goods stores reported a booming trade in sale of hammers, hunting bows, guns, generators, etc, but they soon too were overwhelmed.	game/script.rpy	339
+no_93c3cc2e	Narrator	What is your buddy's name?	game/script.rpy	341
+no_de35e706	Narrator	What is the name of your other buddy?	game/script.rpy	350
+no_5949bdcb	Narrator	The group consists now of [povname], [buddyone], and [buddytwo]. It is believed that their families assumed them dead, and so they only have each other.	game/script.rpy	359
+no_450ae13b	Narrator	After stuffing every single ounce of food and liter of water in their car, they analyze their situation.	game/script.rpy	361
+no_f292da00	Narrator	In their rotting building on the outskirts of Boston, they still remain thousands of kilometers from the new border on the West Coast.	game/script.rpy	363
+no_a665abef	Narrator	In order to sustain themselves during the trip, they will have to make periodic stops and drives through cities and metropolitan areas.	game/script.rpy	365
+no_30120bd2	Narrator	New York is the first stop, and the group awaits their families in California, which is the last remaining bastion of civilization.	game/script.rpy	367
+no_67394a8d	Narrator	And so with nothing gained from waiting around in Boston, they decide to brave the road and head for San Fransico.	game/script.rpy	369
+no_13fe7978	Narrator	Just before the group heads out, [buddytwo] suggests they should name the car.	game/script.rpy	373
+no_8456642e	Narrator	And so the group drives off, and the tale begins.	game/script.rpy	382
+no_9fd377a5	Narrator	The group drives for several hours, and admire the nearby scenery.	game/script.rpy	388
+no_3157d554	Buddy1	We probably won't make it to New York today. I dread becoming vulnerable in such an open area, but I've always wanted to see broadway!	game/script.rpy	390
+no_3fc59ada	Buddy2	You're right, we should probably find a place to crash.	game/script.rpy	392
+no_087ca697	Player	What do you suggest?	game/script.rpy	394
+no_22632b66	Narrator	[buddyone] points to an abadoned cabin atop a hill and a suburban home on the horizon.	game/script.rpy	396
+suburbanhome_cf86e460	Narrator	The [car] coasts into the driveway of the dilapidated structure.	game/script.rpy	408
+suburbanhome_a782733e	Narrator	Inside the home, sheets are strung about, glass has shattered on the rug, and food has been picked clean.	game/script.rpy	409
+suburbanhome_426be8f5	Narrator	Whoever lived here, they were certainly in a hurry.	game/script.rpy	410
+suburbanhome_ff2a07db	Narrator	After boarding the doors and securing the home, the group finds themselves with some free time.	game/script.rpy	411
+suburbanhome_21e5af0d	Narrator	How can time best be spent?	game/script.rpy	412
+stories_645d8568	Narrator	[buddyone] decides to tell a story about {color=#f00}PEAN{/color}{color=#00ff00}UT ALL{/color}{color=#0000ffff}ERGIES!{/color}	game/script.rpy	423
+stories_f0ff453c	Narrator	[povname] is slightly frightened.	game/script.rpy	425
+stories_8c1c4669	Narrator	The group had fun, but will be very tired the next day.	game/script.rpy	427
+stories_c517dd8d	Narrator	The group decides to hunker down for the night, and go to sleep.	game/script.rpy	429
+stories_b2082715	Narrator	And so [povname] slowly drifts off, and lets the warm sensation of sleep engulf them completely.	game/script.rpy	431
+stories_2243d8ea	Narrator	[povname] is awoken by a deafening crash coming from the outside, followed by the unmistakable ring of gunshots.	game/script.rpy	435
+stories_d5eff869	Narrator	[povname] gets up frantically to assemble everyone.	game/script.rpy	439
+stories_91f489f0	Narrator	The rest of the group is nowhere in sight.	game/script.rpy	441
+stories_b31ea2b7	Narrator	After a few moments of catching their breath, [povname] sprints to the doorway.	game/script.rpy	443
+stories_602b8dee	Narrator	They hesitate for a moment, as they contemplate whether or not to peek outside.	game/script.rpy	445
+stories_cb086b19	Narrator	As they open the door, they will be blinded by a light brighter than any star could produce, and shocked by the loudest of explosions.	game/script.rpy	447
+stories_4f8a5694	Narrator	As they look ahead, [povname] finds themself in the most hellish and bloodiest of battlefields.	game/script.rpy	449
+stories_b46ceb9b	Narrator	Peanut Butter Jars with limbs clad in white will run ahead and be mowed down by a passing gunship.	game/script.rpy	451
+stories_877b69b5	Narrator	Tanks roll on, crushing the bodies of troopers as they bathe the area in machine-gun fire.	game/script.rpy	453
+stories_17bbbec2	Narrator	Over their shoulder a barrage of missiles will rain down from passing aircraft, which will in turn be consumed by a hail of anti-aircraft fire from behind a nearby building.	game/script.rpy	455
+stories_99b560cd	Narrator	[povname] is on what might have once been a suburb but is now a ravaged, blasted battlefield.	game/script.rpy	457
+stories_5984d006	Narrator	Peanut Butter Jars clad in two colors - a horribly bright, yet somehow stained, white and a filthy, sickening black - are battling in the most horrid manners possible,	game/script.rpy	459
+stories_fe1a5dc6	Narrator	Fighting with rifles, cannon, swords, bows, all the weapons of war that existed since the dawn of time, to weapons that have not yet been dreamed of by man.	game/script.rpy	461
+cover_1fcea138	Narrator	[povname] sprints to a building resembling a three-story tall structure of blasted concrete that might have once been a command bunker.	game/script.rpy	471
+cover_6cfd8448	Narrator	The structure [povname] just left has collapsed flat in the earth, destroyed by a battalion of screaming Peanut Butter Jars wielding bayoneted rifles.	game/script.rpy	473
+cover_6594741e	Narrator	They take cover as troops in white engage the ones in black. [povname] see's them and witnesses their insatiable bloodlust.	game/script.rpy	475
+cover_8d3d9948	Narrator	If they run out of ammunition, they will begin cutting each other with their bayonet and striking each other with the butts of their rifles, not stopping until they completely disembowel their opponent, and left them in shards, oozing peanut butter.	game/script.rpy	477
+cover_2ced0dba	Narrator	The longer [povname] stays there, the more intense the fighting grows.	game/script.rpy	479
+cover_5ba434de	Narrator	The screams of the wounded and dying echo through the decimated streets, and bullets and shells will come from every angle.	game/script.rpy	481
+cover_0544fd99	Narrator	The fire detachment has arrived to the field, and is [povname] does not seek shelter quickly, the battle-crazed soldiers will get the better of them.	game/script.rpy	483
+enterbunker_3dc29022	Narrator	[povname] enters the bunker, at which point all the peanut butter jars rush toward them	game/script.rpy	491
+enterbunker_3b21756c	Narrator	[povname] does not give any notice to anyone who makes a request of them or tries to talk to them, no matter how desperate they seem.	game/script.rpy	493
+enterbunker_05a2db04	Narrator	They each think [povname] is the enemy, and the moment they respond, [povname] will be rewarded with a knife to the face.	game/script.rpy	495
+runstairs_18407aea	Narrator	[povname] sprints straight up the stairway in front of them, to the second level of the bunker.	game/script.rpy	503
+runstairs_b9ca9612	Narrator	As they mount the stairs, a crash is heard behind them - that's the fire doorway sealing as a flamethrower detachment attacks.	game/script.rpy	505
+runstairs_7660396b	Narrator	On the second level, there is only one individual, [buddytwo], sitting at a desk, yelling into a phone. The stairs to the third level are a mass of twisted concrete.	game/script.rpy	507
+runstairs_8d0c2a34	Narrator	[buddytwo] at the desk wears the stars of a general, but does not seem to notice that the phone, as well as all those on the level, are dead.	game/script.rpy	509
+helpme_922a3be1	Buddy2	[povname]? [povname] what are you doing? Oh man, he's having a nightmare again-	game/script.rpy	520
+helpme_0e6b4f01	Narrator	An explosion suddenly decimated the far wall and atomized the general. Through the hole [povname] can see, on the horizon, the long, thin shape of a missile rising.	game/script.rpy	522
+helpme_27540ba4	Narrator	[povname] shuts their eyes tight and opens them for nothing.	game/script.rpy	524
+helpme_09ad7410	Narrator	The sounds of horrid battle begin fade away, until out of the silence, a single gunshot rings out.	game/script.rpy	526
+wheresir_922a3be1	Buddy2	[povname]? [povname] what are you doing? Oh man, he's having a nightmare again-	game/script.rpy	532
+wheresir_0e6b4f01	Narrator	An explosion suddenly decimated the far wall and atomized the general. Through the hole [povname] can see, on the horizon, the long, thin shape of a missile rising.	game/script.rpy	534
+wheresir_27540ba4	Narrator	[povname] shuts their eyes tight and opens them for nothing.	game/script.rpy	536
+wheresir_09ad7410	Narrator	The sounds of horrid battle begin fade away, until out of the silence, a single gunshot rings out.	game/script.rpy	538
+wheresir_de0f18e8	Narrator	[buddyone] shakes [povname] awake.	game/script.rpy	545
+wheresir_a43b994b	Buddy2	Oh man, you were having a really intense nightmare. Are you okay?	game/script.rpy	547
+wheresir_5560fb42	Player	Yeah, I'm fine.	game/script.rpy	549
+wheresir_422510d6	Buddy2	Care to tell us what it was about? We're here for you [povname].	game/script.rpy	551
+cabin_cf86e460	Narrator	The [car] coasts into the driveway of the dilapidated structure.	game/script.rpy	563
+cabin_a782733e	Narrator	Inside the home, sheets are strung about, glass has shattered on the rug, and food has been picked clean.	game/script.rpy	564
+cabin_4cd1440b	Narrator	Whoever lived here, they were certainly in a hurry. There seems to be a note.	game/script.rpy	565
+cabin_ff2a07db	Narrator	After boarding the doors and securing the home, the group finds themselves with some free time.	game/script.rpy	566
+cabin_21e5af0d	Narrator	How can time best be spent?	game/script.rpy	567
