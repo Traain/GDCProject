@@ -1,2 +1,9 @@
 # GDCProject
-this is test
+
+
+-----------------------
+CREDITS
+
+Trinity Wu
+
+-----------------------
